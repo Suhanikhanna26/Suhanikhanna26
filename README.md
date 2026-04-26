@@ -43,9 +43,9 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 
 ### 📊 ML & Data Science
+![YOLO](https://img.shields.io/badge/YOLO-vision?style=for-the-badge&logo=opencv)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-yellow?style=for-the-badge&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
